@@ -5,7 +5,6 @@ I am a Software Engineer I'm currently working on two projects **[Pharmacy Webpa
 
 ---
 ## 🌟 Projects
-Here are some of my notable projects:
 
 1. **[Pharmacy Webpage API](https://github.com/mcoplan2/SynergyPharmacyAPI)** | **[Pharmacy Webpage UI](https://github.com/mcoplan2/SynergyPharmacyUI)**
    - **Description**: A comprehensive pharmacy management system featuring a RESTful API and an interactive frontend for managing refills, payments, medications, and user profiles.
@@ -23,10 +22,3 @@ Here are some of my notable projects:
       - Integration with a RuneScape webhook to track in-game drops and display a daily output in discord.
       - Leaderboard visualization in React, using Puppeteer to render JSX and output an image in Discord.
    - **Technologies**: Node.js, Discord.js, MongoDB, Mongoose, Puppeteer, React, Studio 3T, Heroku, NPM.
----
-
-## 🔗 Connect with Me
-- **[LinkedIn](www.linkedin.com/in/matthewcoplan)**
-  
----
-
