@@ -12,7 +12,7 @@ I am a Software Engineer, I'm currently working on two projects **[Pharmacy Webp
      - Integrated Spring Security for robust authorization and developed admin features for managing refills and medications.
      - Developed a user-friendly React frontend with Material-UI (MUI), enhancing the overall user experience.
 
-2. **[Discord Bot/WagerBot](https://github.com/mcoplan2/WagerBot)** (Node.js, Discord.js, MongoDB, Mongoose, Puppeteer, React, NPM)
+2. **[Discord Bot/WagerBot](https://github.com/mcoplan2/WagerBot)** (Node.js, Discord.js, MongoDB, Mongoose, Puppeteer, React, npm)
    - **Description**: A feature-rich Discord bot that includes a currency system, prediction mechanics, and RuneScape integration.
     - **Key Features**:
       - Currency system allowing users to earn currency, check balances, and manage their currency.
