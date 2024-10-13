@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Matthew Coplan!
 
 ## 🚀 About Me
-I am a Software Engineer I'm currently working on two projects **[Pharmacy Webpage API](https://github.com/mcoplan2/SynergyPharmacyAPI)** | **[Pharmacy Webpage UI](https://github.com/mcoplan2/SynergyPharmacyUI)** and **[WagerBot](https://github.com/mcoplan2/WagerBot)**.
+I am a Software Engineer, I'm currently working on two projects **[Pharmacy Webpage API](https://github.com/mcoplan2/SynergyPharmacyAPI)** | **[Pharmacy Webpage UI](https://github.com/mcoplan2/SynergyPharmacyUI)** and **[WagerBot](https://github.com/mcoplan2/WagerBot)**.
 
 ## 🌟 Projects
 
