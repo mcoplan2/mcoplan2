@@ -16,6 +16,6 @@ I am a Software Engineer, I'm currently working on two projects **[Pharmacy Webp
    - **Description**: A feature-rich Discord bot that includes a currency system, prediction mechanics, and RuneScape integration.
     - **Key Features**:
       - Currency system allowing users to earn currency, check balances, and manage their currency.
-      - Prediction system similar to Twitch, enabling users to select outcomes and track wins/losses.
+      - Prediction system similar to Twitch, enabling users to use their currency to vote on outcomes and win/lose.
       - Integration with a RuneScape webhook to track in-game drops and display a daily output in Discord.
       - Leaderboard visualization in React, using Puppeteer to render JSX and output an image in Discord.
