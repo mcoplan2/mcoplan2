@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Matthew Coplan!
 
 ## 🚀 About Me
-I am a Software Engineer, I'm currently working on two projects **[Pharmacy Webpage API](https://github.com/mcoplan2/SynergyPharmacyAPI)** | **[Pharmacy Webpage UI](https://github.com/mcoplan2/SynergyPharmacyUI)** and **[WagerBot](https://github.com/mcoplan2/WagerBot)**.
+I am a Software Engineer, I'm currently working on two projects **[Pharmacy Webpage API](https://github.com/mcoplan2/SynergyPharmacyAPI)** | **[Pharmacy Webpage UI](https://github.com/mcoplan2/SynergyUINextJS)** and **[WagerBot](https://github.com/mcoplan2/WagerBot)**.
 
 ## 🌟 Projects
 
@@ -11,6 +11,7 @@ I am a Software Engineer, I'm currently working on two projects **[Pharmacy Webp
      - Designed a RESTful API with Spring Boot for seamless access to user refills, payments, and medication information.
      - Integrated Spring Security for robust authorization and developed admin features for managing refills and medications.
      - Developed a user-friendly React frontend with Material-UI (MUI), enhancing the overall user experience.
+      Demo here: https://synergy-ui-next-js-ten.vercel.app/
 
 2. **[Discord Bot/WagerBot](https://github.com/mcoplan2/WagerBot)** (Node.js, Discord.js, MongoDB, Mongoose, Puppeteer, React, npm)
    - **Description**: A feature-rich Discord bot that includes a currency system, prediction mechanics, and RuneScape integration.
