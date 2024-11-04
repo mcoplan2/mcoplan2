@@ -7,7 +7,7 @@ I am a Software Engineer, I'm currently working on two projects **[Pharmacy Webp
 
 ## 🌟 Projects
 
-1. **[Pharmacy Webpage API](https://github.com/mcoplan2/SynergyPharmacyAPI)** | **[Pharmacy Webpage UI](https://github.com/mcoplan2/SynergyPharmacyUI)** (Java, Spring Boot, React, MaterialUI, JavaScript, Axios, PostgreSQL, JUnit5, Mockito)
+1. **[Pharmacy Webpage API](https://github.com/mcoplan2/SynergyPharmacyAPI)** | **[Pharmacy Webpage UI](https://github.com/mcoplan2/SynergyUINextJS)** (Java, Spring Boot, React, MaterialUI, JavaScript, Axios, PostgreSQL, JUnit5, Mockito)
    - **Description**: A pharmacy management system featuring a RESTful API and a frontend for managing refills, medications, and payments.
    - **Key Features**:
      - Designed a RESTful API with Spring Boot for seamless access to user refills, payments, and medication information.
