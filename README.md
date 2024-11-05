@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I am a Software Engineer, I'm currently working on two projects **[Pharmacy Webpage API](https://github.com/mcoplan2/SynergyPharmacyAPI)** | **[Pharmacy Webpage UI](https://github.com/mcoplan2/SynergyUINextJS)** and **[WagerBot](https://github.com/mcoplan2/WagerBot)**.
 
-   - **Demo here for Synergy Pharmacy API/UI**: https://synergy-ui-next-js-ten.vercel.app/
+   - **Demo here for Synergy Pharmacy API/UI**: https://synergypharmacy.vercel.app/
 
 ## 🌟 Projects
 
